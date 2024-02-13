@@ -95,7 +95,7 @@
                         <li><a href="#">My account</a></li>
                         <li><a href="#">My orders</a></li>
                         <li><a href="#">My routines</a></li>
-                        <li><a href="#">Mu shopping cart</a></li>
+                        <li><a href="#">My shopping cart</a></li>
                     </ul>
                 </div>
             </div>		
